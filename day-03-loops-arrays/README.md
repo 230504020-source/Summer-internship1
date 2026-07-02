@@ -1,4 +1,4 @@
-\# Day 3 - Loops and Arrays
+ Day 3 - Loops and Arrays
 
 
 
@@ -6,31 +6,31 @@ Today, I learned loops and arrays in Java.
 
 
 
-\## Topics Covered
+ Topics Covered
 
 
 
-\- for loop
+for loop
 
-\- while loop
+ while loop
 
-\- array
+ array
 
-\- array index
+ array index
 
-\- array length
+ array length
 
-\- printing array elements
+printing array elements
 
-\- calculating sum
+calculating sum
 
-\- calculating average
+ calculating average
 
-\- enhanced for loop
+enhanced for loop
 
 
 
-\## Description
+ Description
 
 
 
@@ -38,9 +38,9 @@ I practiced using for and while loops to repeat operations. I learned how to sto
 
 
 
-\## Files
+ Files
 
 
 
-\- Staj3.java
+ Staj3.java
 
