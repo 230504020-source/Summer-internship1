@@ -1,4 +1,4 @@
-\# Day 1 - Java Introduction
+Day 1 - Java Introduction
 
 
 
@@ -6,37 +6,35 @@ Today, I learned the basic structure of a Java program.
 
 
 
-\## Topics Covered
+Topics Covered
 
 
 
-\- Class structure
+- Class structure
 
-\- Main method
+- Main method
 
-\- Printing output with System.out.println
+- Printing output with System.out.println
 
-\- Difference between print and println
+- Difference between print and println
 
-\- Variables
+- Variables
 
-\- Basic data types
+- Basic data types
 
-\- Arithmetic operations
+- Arithmetic operations
 
 
-
-\## Description
+Description
 
 
 
 I practiced writing a simple Java program. I learned how to print output to the console, define variables, use basic data types, and perform arithmetic operations.
 
 
-
-\## Files
-
+ Files
 
 
-\- staj.java
+
+staj.java
 
