@@ -1,2 +1,2 @@
 # Summer-internship1
-java data
+This project includes my daily Java practice and internship progress during the summer.
