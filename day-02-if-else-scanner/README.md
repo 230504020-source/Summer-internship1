@@ -1,4 +1,4 @@
-\# Day 2 - If Else and Scanner
+Day 2 - If Else and Scanner
 
 
 
@@ -6,29 +6,29 @@ Today, I learned decision-making structures and user input in Java.
 
 
 
-\## Topics Covered
+ Topics Covered
 
 
 
-\- if statement
+ if statement
 
-\- else statement
+ else statement
 
-\- else if statement
+ else if statement
 
-\- comparison operators
+ comparison operators
 
-\- Scanner class
+ Scanner class
 
-\- user input
+ user input
 
-\- pass/fail control
+ pass/fail control
 
-\- letter grade control
+letter grade control
 
 
 
-\## Description
+ Description
 
 
 
@@ -36,9 +36,9 @@ I practiced using if, else, and else-if statements in Java. I learned how to che
 
 
 
-\## Files
+ Files
 
 
 
-\- Staj2.java
+Staj2.java
 
